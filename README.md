@@ -5,5 +5,5 @@ One of the function created, will provide out of all available files, only just 
 And then that list of files in new directory is used to ingest files on to sql server. Before executing upload it does in between adjustment of column names in desired format. So, that no error it returns (tried my best to cover all possible cases that could return error).
 But, In case say any files whose format that is such that which wouldn't be acceptable as per norms of sql ingestion then it will not able to upload it, but it will still continue to proceed ahead as loop is masked by try catch.</h4>
 
-Trying to learn. Do give your Feedback, if possible. Thanks.
+Do give your Feedback, if possible. Thanks.
 
