@@ -1,4 +1,4 @@
-# AUTOMATING EXCEL FILES INGESTION ON AZURE DATA STUDIO
+# AUTOMATING EXCEL FILES' INGESTION ON AZURE DATA STUDIO
 This helps in automating all excel files (inclusing csvs &amp; excel) Ingestion on to Azure Data Studio(SQL-Server).
 
 <h4> Just change the path to your folder that might contain excel files with all other files. </h4>  
