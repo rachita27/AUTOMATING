@@ -6,7 +6,7 @@ This helps in automating all excel files (inclusing csvs &amp; excel) Ingestion 
 <h4>And then before doing the ingestion, it ensures to convert table & column names in a format which is acceptable as per norms of sql server (tried my best to cover all possible cases that could return error). </h4>
 <h4>But, In case say any files whose format still doesn't match the standards then in that case it will not be able to upload it, but it will still continue to proceed ahead as loop is masked by try catch. </h4>
 
-<h4>Do give your Feedback, if possible. Thanks. </h4>
+Do give your Feedback, if possible. Thanks.
  
 
 
